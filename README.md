@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moonapredator
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning phyton (maybe xd)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java, html, css, soon Phyton
+- 💞️ I’m looking to collaborate on IT Support
 - 📫 How to reach me? follow IG = @julzz.ju
 
 <!---
