@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning phyton (maybe xd)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me follow IG = @julzz.ju
+- 📫 How to reach me? follow IG = @julzz.ju
 
 <!---
 Moonapredator/Moonapredator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
